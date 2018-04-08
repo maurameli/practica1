@@ -2,6 +2,8 @@
 session_start();
 ?>
 
+<!--nuevo cambio> 
+
 <?php require_once("includes/connection.php"); ?>
 <?php include("includes/header.php"); ?>
 
